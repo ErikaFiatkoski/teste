@@ -1,3 +1,3 @@
 # teste
 
-Repositório criado para testes aleatórios e de principiantes na linguagem java.
+Repositório criado para testes aleatórios na linguagem java, com os exercícios do curso "Entendendo Métodos Java", na plataforma DIO.
